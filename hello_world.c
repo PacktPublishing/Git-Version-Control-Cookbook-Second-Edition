@@ -1,4 +1,5 @@
-/* Hello world K&R style*/
+/* Hello world */
+#include <stdio.h>
 
 main()
 {
