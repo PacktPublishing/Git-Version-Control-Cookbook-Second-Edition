@@ -6,6 +6,8 @@ This repository shall explain the Git data model
 Master
 ------
 
-The master branch is the default branch
+The master branch is the default branch, this is on default checked out when the
+repository is cloned
+
 
 
